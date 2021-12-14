@@ -1,14 +1,97 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "delivery": [
+    {
+      "id": 1,
+      "date": "5/12/2021",
+      "pickup_time": "10/12/2021",
+      "delivered_time": "10/12/2021",
+      "img_pickup": "img",
+      "img_delivered": "img",
+      "img_complaine": "img",
+      "type_id" : 1,
+      "delivery_type_id" : 1,
+      "status_id": 1,
+      "start_adresse": "boulevard louis mettewie 10 1080 bruxelles",
+      "latlng" : "50.862180, 4.316267",
+      "end_adresse": [
+          {
+            "step" : 1,
+            "end_adresse" : "place de la minoterie 10 1080 bruxelles",
+            "latlng" : "50.855322, 4.341161",
+            "delivered_time": "hello",
+            "status_id": 1
+          },
+          {
+            "step" : 2,
+            "end_adresse" : "Rue Osseghem 154-148 1080 Molenbeek-Saint-Jean",
+            "latlng" : "50.853677, 4.316081",
+            "delivered_time": "hello",
+            "status_id": 1
+          },
+          {
+            "step" : 3,
+            "end_adresse" : "Rue Denis Verdonck",
+            "latlng" : "50.846742, 4.314879",
+            "delivered_time": "hello",
+            "status_id": 1
+          }
+      ]
+
+    },
+    {
+        "id": 1,
+        "date": "20/12/2021",
+        "pickup_time": null,
+        "delivered_time": null,
+        "img_pickup": null,
+        "img_delivered": null,
+        "img_complaine": null,
+        "type_id" : 1,
+        "delivery_type_id" : 1,
+        "status_id": 1,
+        "start_adresse": "boulevard louis mettewie 10 1080 bruxelles",
+        "latlng" : "50.862180, 4.316267",
+        "end_adresse": [
+            {
+              "step" : 1,
+              "end_adresse" : "place de la minoterie 10 1080 bruxelles",
+              "latlng" : "50.855322, 4.341161",
+              "delivered_time": "hello",
+              "status_id": 1
+            }
+        ]
+  
+    },
+    {
+        "id": 1,
+        "date": "15/12/2021",
+        "pickup_time": "15/12/2021",
+        "delivered_time": null,
+        "img_pickup": null,
+        "img_delivered": null,
+        "img_complaine": null,
+        "type_id" : 1,
+        "delivery_type_id" : 2,
+        "status_id": 1,
+        "start_adresse": "boulevard louis mettewie 10 1080 bruxelles",
+        "latlng" : "50.862180, 4.316267",
+        "end_adresse": [
+            {
+              "step" : 1,
+              "end_adresse" : "place de la minoterie 10 1080 bruxelles",
+              "latlng" : "50.855322, 4.341161",
+              "delivered_time": null,
+              "status_id": 2
+            },
+            {
+              "step" : 2,
+              "end_adresse" : "Rue Osseghem 154-148 1080 Molenbeek-Saint-Jean",
+              "latlng" : "50.853677, 4.316081",
+              "delivered_time": null,
+              "status_id": 1
+            }
+        ]
+  
+    }
+  ]
 }
