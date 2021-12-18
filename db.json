@@ -1,7 +1,7 @@
 {
   "order":[
   {
-    "image": "http://placehold.it/32x32",
+    "image": "images/home1.png",
     "itemType": "Courrier",
     "deliveryType": "économie Livraison",
     "status": "J'accepte",
@@ -11,7 +11,7 @@
     "receiver": "Samantha Smith"
   },
   {
-    "image": "http://placehold.it/32x32",
+    "image": "images/home1.png",
     "itemType": "Courrier",
     "deliveryType": "économie Livraison",
     "status": "J'accepte",
@@ -21,7 +21,7 @@
     "receiver": "Samantha Smith"
   },
   {
-    "image": "http://placehold.it/32x32",
+    "image": "images/home1.png",
     "itemType": "Courrier",
     "deliveryType": "économie Livraison",
     "status": "J'accepte",
@@ -31,7 +31,7 @@
     "receiver": "Samantha Smith"
   },
   {
-    "image": "http://placehold.it/32x32",
+    "image": "images/home1.png",
     "itemType": "Courrier",
     "deliveryType": "économie Livraison",
     "status": "J'accepte",
@@ -41,7 +41,7 @@
     "receiver": "Samantha Smith"
   },
   {
-    "image": "http://placehold.it/32x32",
+    "image": "images/home1.png",
     "itemType": "Courrier",
     "deliveryType": "économie Livraison",
     "status": "J'accepte",
@@ -51,7 +51,7 @@
     "receiver": "Samantha Smith"
   },
   {
-    "image": "http://placehold.it/32x32",
+    "image": "images/home1.png",
     "itemType": "Courrier",
     "deliveryType": "économie Livraison",
     "status": "J'accepte",
