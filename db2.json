@@ -1,0 +1,62 @@
+[
+  {
+    "image": "http://placehold.it/32x32",
+    "itemType": "Courrier",
+    "deliveryType": "économie Livraison",
+    "status": "J'accepte",
+    "paymentMode": "Mode de paiement",
+    "payment": "$ 8.50",
+    "sender": "7-11 Grocery Mart",
+    "receiver": "Samantha Smith"
+  },
+  {
+    "image": "http://placehold.it/32x32",
+    "itemType": "Courrier",
+    "deliveryType": "économie Livraison",
+    "status": "J'accepte",
+    "paymentMode": "Mode de paiement",
+    "payment": "$ 8.50",
+    "sender": "7-11 Grocery Mart",
+    "receiver": "Samantha Smith"
+  },
+  {
+    "image": "http://placehold.it/32x32",
+    "itemType": "Courrier",
+    "deliveryType": "économie Livraison",
+    "status": "J'accepte",
+    "paymentMode": "Mode de paiement",
+    "payment": "$ 8.50",
+    "sender": "7-11 Grocery Mart",
+    "receiver": "Samantha Smith"
+  },
+  {
+    "image": "http://placehold.it/32x32",
+    "itemType": "Courrier",
+    "deliveryType": "économie Livraison",
+    "status": "J'accepte",
+    "paymentMode": "Mode de paiement",
+    "payment": "$ 8.50",
+    "sender": "7-11 Grocery Mart",
+    "receiver": "Samantha Smith"
+  },
+  {
+    "image": "http://placehold.it/32x32",
+    "itemType": "Courrier",
+    "deliveryType": "économie Livraison",
+    "status": "J'accepte",
+    "paymentMode": "Mode de paiement",
+    "payment": "$ 8.50",
+    "sender": "7-11 Grocery Mart",
+    "receiver": "Samantha Smith"
+  },
+  {
+    "image": "http://placehold.it/32x32",
+    "itemType": "Courrier",
+    "deliveryType": "économie Livraison",
+    "status": "J'accepte",
+    "paymentMode": "Mode de paiement",
+    "payment": "$ 8.50",
+    "sender": "7-11 Grocery Mart",
+    "receiver": "Samantha Smith"
+  }
+]
