@@ -2,7 +2,7 @@
   "delivered_status":[
   {
     "name": "delivered",
-    "status_id": "1"
+    "status_id": "3"
   },
   {
     "name": "in progress",
@@ -10,7 +10,7 @@
   },
   {
     "name": "not delivered",
-    "status_id": "3"
+    "status_id": "1"
   }
 ],
   "order":[
@@ -95,7 +95,7 @@
             "end_adresse" : "place de la minoterie 10 1080 bruxelles",
             "latlng" : "50.855322, 4.341161",
             "delivered_time": "hello",
-            "status_id": 1
+            "status_id": 3
           },
           {
             "step" : 2,
@@ -109,7 +109,7 @@
             "end_adresse" : "Rue Denis Verdonck",
             "latlng" : "50.846742, 4.314879",
             "delivered_time": "hello",
-            "status_id": 3
+            "status_id": 1
           }
       ]
 
