@@ -102,14 +102,14 @@
             "end_adresse" : "Rue Osseghem 154-148 1080 Molenbeek-Saint-Jean",
             "latlng" : "50.853677, 4.316081",
             "delivered_time": "hello",
-            "status_id": 1
+            "status_id": 2
           },
           {
             "step" : 3,
             "end_adresse" : "Rue Denis Verdonck",
             "latlng" : "50.846742, 4.314879",
             "delivered_time": "hello",
-            "status_id": 1
+            "status_id": 3
           }
       ]
 
