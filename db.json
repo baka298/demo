@@ -1,4 +1,18 @@
 {
+  "delivered_status":[
+  {
+    "name": "delivered",
+    "status_id": "1"
+  },
+  {
+    "name": "in progress",
+    "status_id": "2"
+  },
+  {
+    "name": "not delivered",
+    "status_id": "3"
+  }
+],
   "order":[
   {
     "image": "images/home1.png",
